@@ -27,6 +27,6 @@ intents.guilds = True
 intents.members = True  # <-- Required for on_member_join
 
 client = MyClient(intents=intents)
-client.run('MTM2MzAwMDU4Mjk1NjEyMjIyMg.GWMUUp.T0fx4yQm69fInVdmKmyf8GC39oSVErwI__5fec')
+client.run('token')
 
 
